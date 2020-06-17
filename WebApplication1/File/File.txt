@@ -1,0 +1,13 @@
+﻿
+Customer -->Index-->String was not recognized as a valid DateTime.	 - 17/06/2020 1:55:55 PM
+------------------------
+Customer -->Index-->String was not recognized as a valid DateTime.	 - 17/06/2020 2:19:47 PM
+------------------------
+Customer -->Index-->A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 - 18/06/2020 1:15:37 PM
+------------------------
+Customer -->Index-->A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 - 18/06/2020 1:23:01 PM
+------------------------
+Customer -->Index-->A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 - 18/06/2020 1:25:36 PM
+------------------------
+Customer -->Index-->A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)	 - 18/06/2020 1:26:41 PM
+------------------------
