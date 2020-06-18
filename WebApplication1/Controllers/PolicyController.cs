@@ -42,7 +42,6 @@ namespace WebApplication1.Controllers
                 cusObj.plan_type = sdr["plan_type"].ToString();
                 cusObj.add_on = sdr["add_on"].ToString();
 
-
             }
             else
             {
