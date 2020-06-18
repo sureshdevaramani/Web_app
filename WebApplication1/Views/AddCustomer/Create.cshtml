@@ -38,11 +38,11 @@
     <div class="form-group">
         @Html.LabelFor(model => model.gender_, "Gender", htmlAttributes: new { @class = "control-label col-md-2" })
         <div class="col-md-10">
-            @Html.DropDownListFor(model => model.gender_,
-                    new SelectList(ViewBag.gender_, "Text", "Value"),
-                    "Select gender",
-                    new { @class = "form-control" });
-            @Html.ValidationMessageFor(model => model.gender_, "", new { @class = "error" })
+            @*@Html.EditorFor(model => model.state_name, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.state_name, "", new { @class = "text-danger" })*@
+
+            @Html.DropDownList("gender_", "---choose---");
+
         </div>
     </div>
 
@@ -95,12 +95,10 @@
     <div class="form-group">
         @Html.LabelFor(model => model.State, "State", htmlAttributes: new { @class = "control-label col-md-2" })
         <div class="col-md-10">
-            @Html.DropDownListFor(model => model.State,
-     new SelectList(ViewBag.state, "Text", "Value"),
-     "Select State",
-     new { @class = "form-control" });
-                @Html.ValidationMessageFor(model => model.State, "", new { @class = "error" })
-            </div>
+            @* @Html.EditorFor(model => model.State, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.State, "", new { @class = "text-danger" })*@
+            @Html.DropDownList("state", "---choose---");
+        </div>
     </div>
 
 
